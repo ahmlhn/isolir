@@ -1,0 +1,6 @@
+2025-12-25 14:10:22 | Try WA: https://app.mpwa.net/send-message?api_key=SHcsgJ47aDIhpYrNSNfEk7eAZ37bl7&sender=628217800222&number=6282178002122&message=%2AADA+CHAT+BARU%2A%0D%0A%0D%0ANama%3A+Ahmad+Solihin%0D%0ANo+HP%3A+6255232%0D%0AAlamat%3A+Sumber+sari%0D%0AID%3A+%7Bid%7D%0D%0AWaktu%3A+%7Btime%7D%0D%0A%0D%0A_Pelanggan+baru+saja+membuka+halaman+chat._
+2025-12-25 14:10:23 | WA Error Respon: {"status":false,"msg":"Invali api_key or sender,please check again (2)"}
+2025-12-25 14:10:23 | Try TG: URL=https://api.telegram.org/bot8325685917:AAE3buKNt6ZkBUZHzEQipTuoIk-E8leJoBMac/sendMessage | ChatID=-1002929579058
+2025-12-25 14:23:16 | Try WA: https://app.mpwa.net/send-message?api_key=SHcsgJ47aDIhpYrNSNfEk7eAZ37bl7&sender=628217800222&number=6282178002122&message=%2AADA+CHAT+BARU%2A%0D%0A%0D%0ANama%3A+Ahmad+Solihin%0D%0ANo+HP%3A+6282178002122%0D%0AAlamat%3A+Sumber+sari%0D%0AID%3A+%7Bid%7D%0D%0AWaktu%3A+%7Btime%7D%0D%0A%0D%0A_Pelanggan+baru+saja+membuka+halaman+chat._
+2025-12-25 14:23:16 | WA Error Respon: {"status":false,"msg":"Invali api_key or sender,please check again (2)"}
+2025-12-25 14:23:16 | Try TG: URL=https://api.telegram.org/bot8325685917:AAE3buKNt6ZkBUZHzEQipTuoIk-E8leJoBM/sendMessage | ChatID=-1002929579058
